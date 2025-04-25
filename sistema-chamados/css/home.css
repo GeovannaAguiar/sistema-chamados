@@ -1,21 +1,26 @@
 *{
-    padding: ;
-    margin: ;
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;
 }
 
 
 body{
+background-image: url('../images/image\ \(2\).png');
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+   background-size: cover;
+   background-repeat: no-repeat;
 
 }
 
-span{
-display: block;
 
+
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
 
 button{
