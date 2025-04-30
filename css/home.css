@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+body{
+background-image: url('../images/image\ \(2\).png');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
+
+
+
+.row{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 60px;
+    color: rgb(5, 5, 5);
+    font-size: 15px;
+    font-weight: bold;
+    padding: 15px;
+    border: 60px;
+    background-color: white;
+}
+

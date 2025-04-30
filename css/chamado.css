@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fa-solid{
+    font-size: 30px;
+}
+
+.navbar {
+    display: flex;
+    padding: 5px 20px;
+    flex-direction: row;
+    justify-content:space-between
+}
